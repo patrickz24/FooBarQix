@@ -28,7 +28,7 @@ const fooBarqix = (value) => {
 
     });
    
-    if (!str) {
+    if (!result) {
         console.log(value);
         return value;
     }
